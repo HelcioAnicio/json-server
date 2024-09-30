@@ -5,7 +5,7 @@
   "main": "server.js",
 "scripts": {
   "start": "json-server --watch db.json --port 3000"
-}
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
