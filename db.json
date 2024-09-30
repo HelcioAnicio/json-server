@@ -1,0 +1,88 @@
+{
+  "campaigns": [
+    {
+      "id": "1",
+      "title": "Promoção de Inverno",
+      "dataCreation": "2024-09-25",
+      "beginCampaign": "2024-10-01",
+      "endCampaign": "2024-12-01",
+      "status": "ativa",
+      "category": "Vestuário"
+    },
+    {
+      "id": "2",
+      "title": "Black Friday",
+      "dataCreation": "2024-09-15",
+      "beginCampaign": "2024-11-25",
+      "endCampaign": "2024-11-29",
+      "status": "ativa",
+      "category": "Eletrônicos"
+    },
+    {
+      "id": "3",
+      "title": "Fim de Estoque",
+      "dataCreation": "2024-07-01",
+      "beginCampaign": "2024-10-05",
+      "endCampaign": "2024-11-09",
+      "status": "expirada",
+      "category": "Jardinagem"
+    },
+    {
+      "id": "4",
+      "title": "dffafa",
+      "dataCreation": "2024-09-30",
+      "beginCampaign": "2024-09-30",
+      "endCampaign": "2024-10-02",
+      "status": "ativa",
+      "category": "Eletrônicos"
+    },
+    {
+      "id": "5",
+      "title": "dasafa",
+      "dataCreation": "2024-09-30",
+      "beginCampaign": "2024-09-30",
+      "endCampaign": "2024-10-03",
+      "status": "pausada",
+      "category": "Móveis"
+    },
+    {
+      "id": "6",
+      "title": "fdmakldfjkd",
+      "dataCreation": "2024-09-30",
+      "beginCampaign": "2024-10-02",
+      "endCampaign": "2024-10-05",
+      "status": "pausada",
+      "category": "Eletrônicos"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "category": "Vestuário"
+    },
+    {
+      "id": "2",
+      "category": "Eletrônicos"
+    },
+    {
+      "id": "3",
+      "category": "Móveis"
+    },
+    {
+      "id": "4",
+      "category": "Jardinagem"
+    },
+    {
+      "id": "5",
+      "category": "Alimentos"
+    },
+    {
+      "id": "6",
+      "category": "Beleza"
+    },
+    {
+      "id": "7",
+      "category": "Automóveis"
+    }
+  ]
+}
